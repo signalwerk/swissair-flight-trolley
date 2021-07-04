@@ -1,6 +1,6 @@
 # swissair-flight-trolley
 
-All Swissair-Trolleys and Board-Boxes I have are in the KSSU size standard. 42.5cm long.
+All Swissair-Trolleys and Board-Boxes I have are in the KSSU size standard. 42.8cm long.
 
 ## Replace Rollers 
 see images 
